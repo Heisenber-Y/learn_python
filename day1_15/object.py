@@ -16,7 +16,7 @@ class  Student(object):
 #     stu2=Student('aa',14)
 #     stu2.study("阿松大")
 #     stu2.watch_movie()  
-#222
+#222   11
     def __init__(self,foo) -> None:
        self.__foo=foo
 
